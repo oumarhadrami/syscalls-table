@@ -14,4 +14,6 @@ Check issues list and work on any of them.
 
 ## Where to see?
 
+vector-mind.com
+
 I keep copy at https://fedora.juszkiewicz.com.pl/syscalls.html page.
